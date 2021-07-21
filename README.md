@@ -5,10 +5,11 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=pyob32)](https://solved.ac/pyob32)
 
+<!--
 ![badge](https://github-readme-developer-health.com/cards/badge?username=pyoki32&theme=dark)
 ![fit](https://github-readme-developer-health.com/cards/fit?username=pyoki32&theme=dark)
 ![chart](https://github-readme-developer-health.com/cards/chart?username=pyoki32)
 ![calendar](https://github-readme-developer-health.com/cards/calendar?username=pyoki32&theme=sky)
 ![test](https://github-readme-developer-health.com/cards/badge?username=pyoki32&size=1.5&theme=forest)
-
+--!>
 
